@@ -1,1 +1,3 @@
-
+[1] Padfield, N., Zabalza, J., Zhao, H., Masero, V., & Ren, J. (2019). EEG-Based Brain-Computer Interfaces Using Motor-Imagery: Techniques and Challenges. Sensors, 19(6), 1423. https://doi.org/10.3390/s19061423 
+[2] Boostani R, Moradi MH. Evaluation of the forearm EMG signal features for the control of a prosthetic hand. Physiol Meas. 2003 May;24(2):309-19. doi: 10.1088/0967-3334/24/2/307. PMID: 12812417.
+[3] D. Nishikawa, W. Yu, H. Yokoi and Y. Kakazu, "EMG prosthetic hand controller discriminating ten motions using real-time learning method," Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289), Kyongju, Korea (South), 1999, pp. 1592-1597 vol.3, doi: 10.1109/IROS.1999.811706.
