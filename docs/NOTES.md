@@ -12,3 +12,5 @@
 
 ### Initial Hand Design
 ![Image failed to load](handSketch.jpg)
+
+The most common causes of input drift in an IMU chipset are to the gyroscope, and are caused by heat and angular random walk (ARW) caused by high frequency noice. The first one can simply be solved by placing a small fan and/or heatsink, or alternatively heat shielding above the arduino. ARW can be negated by fusion of sensors, so if gyroscope changes, but not magnetometer, the input may be void, or vice versa. This will be an issue in any sort of magnetic anomaly, whether that be an electromagnetic storm, a small emp, or the incredibly more likely, you have a magnet near you. 
